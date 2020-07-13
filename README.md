@@ -1,4 +1,4 @@
-# Mikhail Skobelev 🇷
+# Mikhail Skobelev
 
 ## About me
 
