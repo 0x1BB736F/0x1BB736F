@@ -2,7 +2,7 @@
 
 ## About me
 
-I am software-developer in **[🏬wildberries.ru](https://www.wildberries.ru)**. I spend most of my time working on a 💻laptop or hanging on
+I am software-developer in **[🏬wildberries.ru](https://www.wildberries.ru)**. I spend most of my time 💻working or hanging on
 **[📖stepic](https://stepik.org)**
 
 My tech stack at the moment:
