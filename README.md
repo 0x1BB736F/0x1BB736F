@@ -3,7 +3,7 @@
 ## About me
 
 I am golang software-developer. I spend most of my time hanging on
-**[📖stepic](https://stepik.org)**
+**[📖stepic](https://stepik.org)**. I like to try something new 
 
 My tech stack at the moment:
 
@@ -11,6 +11,9 @@ Backend:
 
 - Golang
 - Postgresql
+- MongoDB
+- Redis
+- RabbitMQ
 
 Frontend:
 
